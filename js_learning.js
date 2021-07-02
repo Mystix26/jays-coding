@@ -1,11 +1,5 @@
-var a;
-var b;
+var d = 3;
+d += 12;
+console.log(d)
 
-a = 5
-b = 9
-
-var c;
-
-c = a+b;
-
-console.log(c)
+// hell
